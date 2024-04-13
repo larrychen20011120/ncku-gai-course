@@ -1,2 +1,2 @@
 # ncku-gai-course
-NCKU Course: FUNDAMENTALS AND APPLICATIONS OF GENERATIVE AI
+NCKU Course: Fundamentals and Applications of Generative AI
