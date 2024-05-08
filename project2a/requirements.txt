@@ -1,0 +1,4 @@
+numpy==1.26.4
+torch @ file:///tmp/torch/torch-2.1.2-cp310-cp310-linux_x86_64.whl#sha256=ae3259980b8d6551608b32fde2695baca64c72ed15ab2332023a248c113815a8
+matplotlib==3.7.5
+pandas==2.2.1
