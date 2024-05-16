@@ -1,0 +1,9 @@
+peft==0.10.0
+transformers==4.40.2
+sklearn-pandas==2.2.0
+scipy==1.11.4
+scikit-learn==1.2.2
+matplotlib==3.7.1
+numpy==1.25.2
+pandas==2.0.3
+torch @ https://download.pytorch.org/whl/cu121/torch-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=1adf430f01ff649c848ac021785e18007b0714fdde68e4e65bd0c640bf3fb8e1
